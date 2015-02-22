@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Amon.cc.Oidc.Authentication.Entities.AuthenticationRequest">
+    <Position X="2.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAACAAgEAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Entities\AuthenticationRequest.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Scope" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Entities.IDTokenPayload">
+    <Position X="5.5" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAAAACAEAAEAAAAAAAAAAAAAABEAAACAEwAAAAA=</HashCode>
+      <FileName>Entities\IDTokenPayload.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Entities.AuthenticationResponse">
+    <Position X="4" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAAAQAA=</HashCode>
+      <FileName>Entities\AuthenticationResponse.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UserInformation" />
+      <Property Name="IDTokenPayload" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Entities.DiscoveryDocument">
+    <Position X="11.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAEA=</HashCode>
+      <FileName>Entities\DiscoveryDocument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Entities.TokenInformation">
+    <Position X="11.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entities\TokenInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Entities.JsonWebKey">
+    <Position X="9" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAQAAAQAAAAEAAAAAQAAAg=</HashCode>
+      <FileName>Entities\JsonWebKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Entities.JsonWebKeyIndex">
+    <Position X="9" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\JsonWebKeyIndex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Entities.UserInformation">
+    <Position X="2.25" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAiBAgICAAAAEAAAAgABAABAAAACAAAAAAAA=</HashCode>
+      <FileName>Entities\UserInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Amon.cc.Oidc.Authentication.Entities.Scope">
+    <Position X="5.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQA=</HashCode>
+      <FileName>Entities\Scope.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

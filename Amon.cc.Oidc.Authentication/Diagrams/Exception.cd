@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Amon.cc.Oidc.Authentication.Exceptions.AuthenticationException">
+    <Position X="6.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Exceptions\AuthenticationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Exceptions.CsrfTokenMissingException">
+    <Position X="13.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\CsrfTokenMissingException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Exceptions.HashAlgorithmNotSupportedException">
+    <Position X="18.5" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\HashAlgorithmNotSupportedException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Exceptions.InvalidStateException">
+    <Position X="8.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Exceptions\InvalidStateException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Exceptions.InvalidBase64UrlStringException">
+    <Position X="15.75" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\InvalidBase64UrlStringException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Exceptions.OidcAuthenticationException">
+    <Position X="12.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\OidcAuthenticationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Amon.cc.Oidc.Authentication.Exceptions.SignatureVerificationException">
+    <Position X="10.5" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\SignatureVerificationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

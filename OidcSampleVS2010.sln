@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amon.cc.Oidc.SampleApplication", "Amon.cc.Oidc.SampleApplication\Amon.cc.Oidc.SampleApplication.csproj", "{67EA8C42-30D4-4C1C-BFA7-2DA51422D94E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amon.cc.Oidc.Authentication", "Amon.cc.Oidc.Authentication\Amon.cc.Oidc.Authentication.csproj", "{3C6A620E-53BE-41E7-A11F-4023FF0CF86F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67EA8C42-30D4-4C1C-BFA7-2DA51422D94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EA8C42-30D4-4C1C-BFA7-2DA51422D94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EA8C42-30D4-4C1C-BFA7-2DA51422D94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EA8C42-30D4-4C1C-BFA7-2DA51422D94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6A620E-53BE-41E7-A11F-4023FF0CF86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6A620E-53BE-41E7-A11F-4023FF0CF86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6A620E-53BE-41E7-A11F-4023FF0CF86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6A620E-53BE-41E7-A11F-4023FF0CF86F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
